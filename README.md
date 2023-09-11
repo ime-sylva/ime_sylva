@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timsylva
+- 👋 Hi, I’m @ime_sylva
 - 👀 I’m interested in SoftwareDevelopment
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on Projects
